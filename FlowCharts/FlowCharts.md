@@ -1,6 +1,6 @@
 # Fluxogramas
 
-### ClientRegistration
+### Client Registration
 ![alt text](images/ClientRegistration.png) 
 
 ### Employee Registration
@@ -17,3 +17,6 @@
 
 ### After Order Payment
 ![alt text](images/AfterOrderPayment.png)
+
+### User Enter In FEX
+![alt text](images/UserEnterInFex.png)
