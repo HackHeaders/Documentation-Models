@@ -39,6 +39,9 @@
 **RF11:** O sistema deve manter os dados do pagamento.<br>
 **RN16:** O sistema deve manter os seguintes dados de pagamento: Status, Valor, Data efetiva do pagamento, data de geração e pix cópia e cola.
 
+**RF12:** O sistema deve manter cargos da empresa.<br>
+**RN17:** O sistema deve atribuir os funcionários a seu cargo expecifico.<br>
+
 ### Requisitos Não Funcionais
 **RNF01:** O backend do sistema será feito em Django. <br>
 **RNF02:** A modelagem do banco de dados do sistema deve feito em MySQL workbench<br>
